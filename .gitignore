@@ -1,0 +1,10 @@
+/env
+./env
+env/
+.env
+
+dist/
+node_modules/
+*.log
+.env
+*.zip
